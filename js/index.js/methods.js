@@ -1,9 +1,0 @@
-moveRight(){
-
-}
-
-
-
-moveLeft(){
-    
-}

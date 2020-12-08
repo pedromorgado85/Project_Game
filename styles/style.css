@@ -1,0 +1,9 @@
+#canvas {
+  border: 2px solid black;
+}
+
+#alcoholScore {
+  font-style: italic;
+  font-size: medium;
+  color: black;
+}
